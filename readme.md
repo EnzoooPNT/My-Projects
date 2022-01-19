@@ -36,7 +36,7 @@ https://github.com/YasserSeryas/Projet-Forum
 
 ## To do list
 
-Pour finir je vous présente le projet php qui consistait a créer une to do list.
+Pour finir je vous présente le projet php qui consistait à créer une to do list.
 Ici je me suis plus focus sur le bac notament en interargissant avec une base de données et en créant l'enregistrement d'un compte ainsi que sa connexion avec un hashage du mot de passe. J'en dit déja trop ! je vous laisse découvrir le projet :)
 
 https://github.com/kevinguyodo/To_Do_Project_PHP
