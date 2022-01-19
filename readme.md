@@ -2,7 +2,7 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
-##Projet personnel
+## Projet personnel
 
 Dans un premier temps je vous présente un projet personnel, je suis en cours de création d'une marque de vêtement avec des amis, je me charge donc du site web sur lequel nos articles seront présentés, l'objectif est de finaliser le site web en fin d'anné, il a débuté mi janvier.
 
