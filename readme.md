@@ -6,7 +6,7 @@ Dans un premier temps je vous présente un projet personnel, je suis en cours de
 
 https://github.com/EnzoooPNT/Reverse-Website
 
-#1 Challenge 48h
+## Challenge 48h
 
 Parlons du challenge 48h ! Il se déroule chaque année, c'est un challenge qui réuni un groupe de 4-5 étudiants, il réunit les B1, B2 et B3. Chaque année l'énoncé est différent, je vous laisse découvrir celui auqel j'ai participé l'année dernière !
 
