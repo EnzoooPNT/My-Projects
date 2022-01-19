@@ -16,7 +16,7 @@ Nous voici maintenant dans un projet un peu différent, l'objectif été de pré
 https://github.com/EnzoooPNT/Powershell
 
 
-Passons au projet Ydays, notre Campus met en place un mercredi sur deux. Les ydays sont des journées qui ont pour but d’augmenter l’expérience des étudiants Ynov en faisant collaborer les filières autour d’un projet commun encadrés par l’équipe pédagogique.
+Passons au projet Ydays, notre Campus met en place un mercredi sur deux les Ydays. Ce sont des journées qui ont pour but d’augmenter l’expérience des étudiants Ynov en faisant collaborer les filières autour d’un projet commun encadrés par l’équipe pédagogique.
 Ici je vous présente le projet Yadays de cette année, il consiste à créer un jeux vidéo en reprenant les règles du Lou garou, bien évidemment le projet n'est pas terminé il a été commencé en octobre 2021. Cependant vous pourrez voir de la POO sur le langage csharp.​
 
 https://github.com/kevinguyodo/Loup-garou
