@@ -2,6 +2,14 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
+## Projet To-Do-List
+
+Le projet To-Do-List a été un de mes préférés, l'objectif été de recréer un mini trello, nous avons eu peu de temps, qu'une semaine et demi pour réaliser ce projet.
+
+Ici j'ai eu comme rôle de créer une partie de la base de donnée ainsi que l'inscription et la connexion d'un compte utilisateur !
+
+https://github.com/kevinguyodo/To_Do_Project_PHP
+
 ## Projet personnel
 
 Dans un premier temps je vous présente un projet personnel, je suis en cours de création d'une marque de vêtement avec des amis, je me charge donc du site web sur lequel nos articles seront présentés, l'objectif est de finaliser le site web en fin d'anné, il a débuté mi janvier.
@@ -10,9 +18,17 @@ https://github.com/EnzoooPNT/Reverse-Website
 
 ## Challenge 48h
 
+2021 : 
+
 Parlons du challenge 48h ! Il se déroule chaque année, c'est un challenge qui réuni un groupe de 4-5 étudiants, il réunit les B1, B2 et B3. Chaque année l'énoncé est différent, je vous laisse découvrir celui auqel j'ai participé l'année dernière !
 
 https://github.com/LeoneLal/challenge48h
+
+2022 : 
+
+Et celui de cette année ;)
+
+https://github.com/VicAffile/challenge-48h-star-wars
 
 ## Powershell
 
