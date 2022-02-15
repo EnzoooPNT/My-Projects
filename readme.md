@@ -4,7 +4,7 @@ Bienvenu sur mon github qui contient les projets les plus interessants réalisé
 
 ## Projet To-Do-List
 
-Le projet To-Do-List a été un de mes préférés, l'objectif été de recréer un mini trello, nous avons eu peu de temps, qu'une semaine et demi pour réaliser ce projet.
+Le projet To-Do-List a été un de mes préférés, l'objectif été de recréer un mini trello en php, nous avons eu peu de temps, qu'une semaine et demi pour réaliser ce projet.
 
 Ici j'ai eu comme rôle de créer une partie de la base de donnée ainsi que l'inscription et la connexion d'un compte utilisateur !
 
