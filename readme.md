@@ -50,13 +50,6 @@ Ici nous observons que je me suis plus occupé du front du site web. L'objectif 
 
 https://github.com/YasserSeryas/Projet-Forum
 
-## To do list
-
-Pour finir je vous présente le projet php qui consistait à créer une to do list.
-Ici je me suis plus focus sur le bac notament en interargissant avec une base de données et en créant l'enregistrement d'un compte ainsi que sa connexion avec un hashage du mot de passe. J'en dit déja trop ! je vous laisse découvrir le projet :)
-
-https://github.com/kevinguyodo/To_Do_Project_PHP
-
 Merci de votre attention, j'essaye tous les jours de perfectionner ma façon de coder, cependant étant uniquement en deuxième année j'ai encore beaucoup à apprendre .
 
 J'espère que cette petite présentation vous a plus ! 
