@@ -2,6 +2,14 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
+## Windows Server Project
+
+Voici le projet Infra & Si le plus intéressant que j'ai réalisé en colaboration avec un élève de ma classe. L'objectif était de réaliser un intranet à travers un Windows Server et son Active Directory.
+
+Vous retrouverez le pdf à télécharger dans le lien ci-dessous.
+
+https://github.com/EnzoooPNT/Windows-Server-Project
+
 ## Projet To-Do-List
 
 Le projet To-Do-List a été un de mes préférés, l'objectif été de recréer un mini trello en php, nous avons eu peu de temps, qu'une semaine et demi pour réaliser ce projet.
@@ -15,10 +23,6 @@ https://github.com/kevinguyodo/To_Do_Project_PHP
 Dans un premier temps je vous présente un projet personnel, je suis en cours de création d'une marque de vêtement avec des amis, je me charge donc du site web sur lequel nos articles seront présentés, l'objectif est de finaliser le site web en fin d'anné, il a débuté mi janvier.
 
 https://github.com/EnzoooPNT/Reverse-Website
-
-## Windows Server Project
-
-Voici le projet Infra & Si le plus intéressant que j'ai réalisé en colaboration avec un élève de ma classe. L'objectif était de réaliser un intranet à travers un Windows Server et son Active Directory 
 
 ## Challenge 48h
 
