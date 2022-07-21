@@ -2,6 +2,14 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
+## Projet Cybersécurité 
+
+Ici nous avons fait un rapport d'audit sur un service de streaming de notre choix. J'ai choisis spotify !
+
+Vous retrouverez le pdf à télécharger dans le lien ci-dessous.
+
+https://github.com/EnzoooPNT/Audit-cybersecurity
+
 ## Windows Server Project
 
 Voici le projet Infra & Si le plus intéressant que j'ai réalisé en colaboration avec un élève de ma classe. L'objectif était de réaliser un intranet à travers un Windows Server et son Active Directory.
