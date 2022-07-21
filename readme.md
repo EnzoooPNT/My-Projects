@@ -16,6 +16,10 @@ Dans un premier temps je vous présente un projet personnel, je suis en cours de
 
 https://github.com/EnzoooPNT/Reverse-Website
 
+## Windows Server Project
+
+Voici le projet Infra & Si le plus intéressant que j'ai réalisé en colaboration avec un élève de ma classe. L'objectif était de réaliser un intranet à travers un Windows Server et son Active Directory 
+
 ## Challenge 48h
 
 2021 : 
