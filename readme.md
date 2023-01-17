@@ -2,7 +2,7 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
-## Projet Cybersécurité 
+## Projet Audit
 
 Ici nous avons fait un rapport d'audit sur un service de streaming de notre choix. J'ai choisis spotify !
 
