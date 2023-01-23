@@ -8,7 +8,7 @@ Dans ce module nous avons étudié le sujet de gouvernance de la sécurité par 
 
 https://github.com/EnzoooPNT/Security-Project
 
-Et par l'analyse/cartographie des risques cyber sur une entreprise fictive que nous avons créer en groupe : 
+Et par la présentation sous forme de diaporama sur l'analyse/cartographie des risques cyber d'une entreprise fictive que nous avons créer en groupe : 
 
 https://github.com/EnzoooPNT/Gouvernance-securite-analyse-cartographie
 
