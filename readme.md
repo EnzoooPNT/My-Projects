@@ -2,6 +2,16 @@
 
 Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
 
+## Gouvernance de la sécurité
+
+Dans ce module nous avons étudié le sujet de gouvernance de la sécurité par plusieur projet notament par la création d'une authentification sur un site web la plus sécurisé possible:
+
+https://github.com/EnzoooPNT/Security-Project
+
+Et par l'analyse/cartographie des risques cyber sur une entreprise fictive que nous avons créer en groupe : 
+
+https://github.com/EnzoooPNT/Gouvernance-securite-analyse-cartographie
+
 ## Projet Audit
 
 Ici nous avons fait un rapport d'audit sur un service de streaming de notre choix. J'ai choisis spotify !
