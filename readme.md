@@ -12,7 +12,7 @@ Et par la présentation sous forme de diaporama sur l'analyse/cartographie des r
 
 https://github.com/EnzoooPNT/Gouvernance-securite-analyse-cartographie
 
-## Architecture réseau 
+## Architecture réseau-sécurité
 
 Voici une architecture réseau réalisé en groupe, l'objectif était de créer et sécurisé le réseau d'une petite entreprise avec quelqes contraintes. Il sagit d'un projet que nous avons réalisé en 6 heures.
 
