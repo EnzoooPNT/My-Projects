@@ -1,6 +1,6 @@
 # Mes projets
 
-Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes deux premières années d'informatique au Campus d'Ynov Nantes.
+Bienvenu sur mon github qui contient les projets les plus interessants réalisés en groupe lors de mes trois premières années d'informatique au Campus d'Ynov Nantes.
 
 ## Gouvernance de la sécurité
 
