@@ -16,7 +16,7 @@ https://github.com/EnzoooPNT/Gouvernance-securite-analyse-cartographie
 
 Ici nous avons fait un rapport d'audit sur un service de streaming de notre choix. J'ai choisis spotify !
 
-Vous retrouverez le pdf à télécharger dans le lien ci-dessous.
+Vous y trouverez le pdf à télécharger dans le lien ci-dessous.
 
 https://github.com/EnzoooPNT/Audit-cybersecurity
 
